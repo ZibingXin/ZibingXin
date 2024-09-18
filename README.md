@@ -27,16 +27,16 @@ I'm **Zibing Xin**, a passionate **Junior Game Developer** currently pursuing a 
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
 -->
 ## 🌱 What I'm Learning
-- [ ] Deep dive into **shader programming** (HLSL, GLSL)
+- [v] Deep dive into **shader programming** (HLSL, GLSL)
 - [ ] Advanced **AI systems** for enemy and NPC behavior
 - [ ] Multiplayer networking in **Unity and Unreal**
 
-
+<!--
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZibingXin&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZibingXin&layout=compact&theme=radical)
-
+-->
 
 ## 📫 How to reach me
 - **Email:** [zibing.xin@outlook.com](mailto:zibing.xin@outlook.com)
