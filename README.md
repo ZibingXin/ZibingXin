@@ -33,9 +33,9 @@ I'm **Zibing Xin**, a passionate **Junior Game Developer** currently pursuing a 
 
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mizuki&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizuki&layout=compact&theme=radical)
 
 
 ## 📫 How to reach me
