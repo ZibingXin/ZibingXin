@@ -31,12 +31,12 @@ I'm **Zibing Xin**, a passionate **Junior Game Developer** currently pursuing a 
 - [ ] Advanced **AI systems** for enemy and NPC behavior
 - [ ] Multiplayer networking in **Unity and Unreal**
 
-<!--
+
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
--->
+
 
 ## 📫 How to reach me
 - **Email:** [zibing.xin@outlook.com](mailto:zibing.xin@outlook.com)
